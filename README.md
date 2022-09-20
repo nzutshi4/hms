@@ -17,6 +17,8 @@ Register as doctor or patient
 
  
 The data gets entered in DB and fetched for login.
+
+
 Step 3:
 LOGIN as patient or doctor.
  
